@@ -1,0 +1,7 @@
+{
+  "name": "Edubit AI Learning Platform",
+  "description": "A comprehensive online learning application featuring a multi-step school-based login, interactive dashboard, and a Gemini-powered AI Study Assistant for students.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
